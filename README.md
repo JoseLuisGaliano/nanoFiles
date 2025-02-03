@@ -9,3 +9,5 @@ Para detalles sobre el diseño y la implementación, consultar la memoria.
 Se incluyen dos ejecutables jar: Directory y NanoFiles. Directory se debe ejecutar en el ordenador que se desee que actúe como servidor remoto. NanoFiles es la aplicación cliente. Los ficheros que se el cliente desee compartir deben ser colocados en la carpeta nf-shared. En esa misma carpeta recibirá aquellos ficheros que descargue. 
 
 **Fecha de desarrollo**: Febrero - Mayo 2022
+
+Desarrollado como proyecto de prácticas de la asignatura REDES DE COMUNICACIONES en la Facultad de Informática de la Universidad de Murcia
